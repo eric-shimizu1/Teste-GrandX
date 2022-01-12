@@ -1,0 +1,9 @@
+$primaryColor: #F89B33 !important;
+$secondaryColor: #AFAFAF !important;
+
+
+
+:root {
+  --primaryColor: #{$primaryColor};
+  --secondaryColor: #{$secondaryColor};
+}
