@@ -56,6 +56,10 @@ export default {
 
 <style scoped>
 
+  h5 {
+    margin-top: 10px;
+  }
+
   h3 {
     color: white;
     margin-left: 20px;
@@ -94,7 +98,7 @@ export default {
     border-top-left-radius: 70px;
     border-top-right-radius: 70px;
     width: 300px;
-    height: 280px;
+    height: 350px;
     flex-direction: column;
   }
 

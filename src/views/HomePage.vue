@@ -214,6 +214,7 @@ export default {
   align-items: center;
   justify-content: center;
   width: 100%;
+  margin-top: 80px;
 }
 
 .card-content {
